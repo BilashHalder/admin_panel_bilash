@@ -1,0 +1,3 @@
+export const GET_REQ="GET_TODOS_REQUEST"
+export const SUCC_REQ="GET_SUCESS_REQUEST"
+export const FAIL_REQ="GET_FAILED_REQUEST"
