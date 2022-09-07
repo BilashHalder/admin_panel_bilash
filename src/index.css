@@ -20,3 +20,7 @@ code {
 /* #sidebar{
   position: fixed;
 } */
+
+.bg-primary{
+  background-color: #090909!important;
+}

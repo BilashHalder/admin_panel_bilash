@@ -15,29 +15,6 @@ import Alerts from './Alerts'
 import TicketInfo from './TicketInfo'
 export default function Demo() {
   return (
-    <div>
-          <div class="container-scroller">
-          <Sidebar/>
-      <div class="container-fluid page-body-wrapper">
-        
-        <Navbar/>
-        <div class="main-panel">
-        <div class="content-wrapper pb-0">
-            <Header/>
-            {/* <Transaction/> */}
-            {/* <Invesments/> */}
-            {/* <Home/> */}
-            {/* <Profile/> */}
-            {/* <AddInvesment/> */}
-            {/* <Tabs/> */}
-            {/* <Invoice/> */}
-            {/* <Alerts/> */}
-            <TicketInfo/>
-          </div>
-      <Footer/>
-        </div>
-      </div>
-    </div>
-    </div>
+   <h1>kakakka</h1>
   )
 }
